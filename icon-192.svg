@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#090d16"/>
+  <rect x="24" y="24" width="464" height="464" rx="92" fill="#0f172a" stroke="#10b981" stroke-width="8" stroke-opacity="0.45"/>
+  <circle cx="256" cy="256" r="168" fill="none" stroke="#34d399" stroke-width="4" stroke-opacity="0.2" stroke-dasharray="12 10"/>
+  <text x="256" y="305" font-family="-apple-system, BlinkMacSystemFont, Inter, sans-serif" font-size="168" font-weight="800" fill="#34d399" text-anchor="middle" letter-spacing="-6">μQ</text>
+</svg>

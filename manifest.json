@@ -1,0 +1,49 @@
+{
+  "id": "./index.html",
+  "name": "MicrodoseIQ \u2014 Harm-Reduction & Dosing Companion",
+  "short_name": "MicrodoseIQ",
+  "description": "100% free, zero-knowledge encrypted microdosing calculator, volumetric dilution guide, medication interaction screener, breathing & sound sanctuary, and blinded placebo self-test. Built by Flude.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "categories": [
+    "health",
+    "lifestyle",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-192.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
